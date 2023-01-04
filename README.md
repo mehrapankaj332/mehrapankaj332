@@ -108,7 +108,7 @@
 <!----------------------------------- Git Status ------------------------------------>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrapankaj332&show_icons=true&locale=en&&theme=highcontrast" alt="mehrapankaj332" /></p>
 <br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=mehrapankaj332&theme=algolia" alt="mehrapankaj332" /></a></p> -->
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=mehrapankaj332&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=mehrapankaj332&theme=algolia" alt="mehrapankaj332" /></a></p> -->
 <br>
 
 
@@ -122,12 +122,9 @@
  -->
 <!-- ________________________-____________________contribution___________________________ -->
 
-<h2 align="center"><i>📈 Contribution Graph</i></h2>
- <img align="right" src="https://activity-graph.herokuapp.com/graph?username=mehrapankaj332&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> 
- <br>
-
-
-
-  
+<!-- <h2 align="center"><i>📈 Contribution Graph</i></h2> -->
+<!--  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=mehrapankaj332&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> 
+ <br> -->
+ 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
